@@ -1,0 +1,16 @@
+{
+  "name": "borozdov-tally",
+  "private": true,
+  "description": "A quiet analyst's desk on warm stone: whispered headlines, white cards, pill buttons and one cyan for what you highlight.",
+  "license": "MIT",
+  "scripts": {
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}

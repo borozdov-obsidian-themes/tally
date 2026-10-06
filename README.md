@@ -34,10 +34,14 @@ white cards, pill buttons and one cyan for what you highlight.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Tally**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Tally** under Style Settings → Borozdov Ember → Variant. The variant brings this theme's
+palette, type and corners; its own layout, and its embedded font if it has one, come with
+the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/tally/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Tally/`, then choose Borozdov Tally under Settings →
 Appearance → Themes.
@@ -51,5 +55,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Известняк» — тихий стол
 аналитика на тёплом камне, и тёмный «Сланец» — тот же стол после работы. Заголовки
 вполголоса, белые карточки, кнопки-пилюли и один циан для того, что вы выделяете. Шрифты не
-встроены. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov
-Tally → Установить и применить.
+встроены. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Tally в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
